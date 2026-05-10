@@ -1,18 +1,13 @@
 # Software Re-Engineering Project  
-## Legacy Java Code Analysis & Technical Debt Assessment
-
-**Institution:** National University of Computer and Emerging Sciences (FAST-NUCES)  
-**Instructor:** Ma’am Muzzamal Asghar  
+## Legacy Java Code Analysis & Technical Debt Assessment 
 
 ### Team Members
-- Muhammad Hasnain (22F-3718) — Section SE-8A  
-- Asfand Ahmed (22F-3727) — Section SE-8A  
+- Muhammad Hasnain 
+- Asfand Ahmed 
 
 ---
 
 # Project Overview
-
-This repository contains the deliverables and implementation work for **Parts A, B, C, and D** of the Software Re-Engineering project.
 
 The project focuses on analyzing and evaluating a legacy monolithic Java Swing desktop application:  
 **Library-Management-System-JAVA**
